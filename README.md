@@ -1,24 +1,24 @@
-# Hi, I'm Chahat Saini 👋
+# Hi, I'm Chahat Saini 
 
 **Mathematics & Computing @ NSUT**
 
 I'm interested in building intelligent software, scalable backend systems, and solving algorithmic problems.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎨 MoodMatch
+### MoodMatch
 AI-powered moodboard generator that transforms text prompts into personalized visual moodboards using emotion classification.
 
 **Tech:** Python • Transformers • Hugging Face • Groq API • JavaScript • Vercel
 
-### 📚 DSA Solutions
+### DSA Solutions
 100+ LeetCode solutions in C++, organized by interview patterns.
 `Two Pointers` • `Sliding Window` • `Binary Search` • `Linked Lists` • `Trees` • `Heaps` • `Backtracking`
 
-### ⚙️ Backend Engineering Sprint *(In Progress)*
+### Backend Engineering Sprint *(In Progress)*
 Building production-inspired backend applications to learn REST APIs, authentication, databases, caching, WebSockets, and deployment.
 
-## 📫 Connect
+## Connect
 
 **LinkedIn**  
 https://www.linkedin.com/in/chahat-saini-182716287/
