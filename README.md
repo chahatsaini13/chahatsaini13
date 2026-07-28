@@ -25,22 +25,7 @@ A structured collection of C++ solutions covering common interview patterns incl
 ### ⚙️ Backend Engineering Sprint *(In Progress)*
 Building production-inspired backend applications to learn REST APIs, authentication, databases, caching, WebSockets, and deployment.
 
-## 🛠 Tech Stack
-
-**Languages**
-
-C++ • Python • JavaScript • SQL
-
-**Technologies**
-
-Node.js • Express • MongoDB • Git • GitHub • Transformers • Hugging Face • Vercel
-
-## 🌱 Currently Learning
-
-- Backend Engineering
-- System Design
-- Graph Algorithms
-- Dynamic Programming
+---
 
 ## 📫 Connect
 
