@@ -4,8 +4,6 @@
 
 I'm interested in building intelligent software, scalable backend systems, and solving algorithmic problems.
 
-Currently exploring backend engineering while strengthening my foundations in data structures, algorithms, and system design.
-
 ## 🚀 Featured Projects
 
 ### 🎨 MoodMatch
@@ -13,19 +11,12 @@ AI-powered moodboard generator that transforms text prompts into personalized vi
 
 **Tech:** Python • Transformers • Hugging Face • Groq API • JavaScript • Vercel
 
----
-
 ### 📚 DSA Solutions
-A structured collection of C++ solutions covering common interview patterns including:
-
+100+ LeetCode solutions in C++, organized by interview patterns.
 `Two Pointers` • `Sliding Window` • `Binary Search` • `Linked Lists` • `Trees` • `Heaps` • `Backtracking`
-
----
 
 ### ⚙️ Backend Engineering Sprint *(In Progress)*
 Building production-inspired backend applications to learn REST APIs, authentication, databases, caching, WebSockets, and deployment.
-
----
 
 ## 📫 Connect
 
