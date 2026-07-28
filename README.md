@@ -1,80 +1,92 @@
 # Hi, I'm Chahat Saini 👋
 
-I'm a B.Tech Mathematics & Computing student at Netaji Subhas University of Technology (NSUT) with an interest in building scalable software and solving algorithmic problems.
+I'm a Mathematics & Computing undergraduate at **Netaji Subhas University of Technology (NSUT)** who enjoys building software that blends technology with creativity.
 
-Currently, I'm exploring backend engineering while continuing to strengthen my problem-solving skills through Data Structures & Algorithms.
+My interests span **AI applications, backend engineering, UI/UX design, and algorithmic problem solving**. I enjoy understanding how systems work—from designing intuitive user experiences to building the logic that powers them.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎨 MoodMatch
-An AI-powered moodboard generator that transforms text prompts into curated visual moodboards using emotion classification and image generation pipelines.
+An AI-powered moodboard generator that transforms text prompts into personalized visual moodboards using emotion classification and curated design elements.
 
 **Tech Stack**
-Python • Transformers • Hugging Face • Groq API • JavaScript • Vercel
+
+`Python` • `Transformers` • `Hugging Face` • `Groq API` • `JavaScript` • `HTML/CSS` • `Pillow` • `Vercel`
 
 ---
 
 ### 📚 DSA Solutions
 
-A structured repository of LeetCode solutions implemented in C++.
+A structured collection of my C++ solutions to LeetCode problems, organized by common interview patterns.
 
-Topics include:
-
-- Arrays
-- Binary Search
-- Sliding Window
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy
-- Heaps
+| Pattern | Status |
+|---------|:------:|
+| Two Pointers | ✅ |
+| Sliding Window | ✅ |
+| Binary Search | ✅ |
+| Prefix Sum | ✅ |
+| Merge Intervals | ✅ |
+| Fast & Slow Pointers | ✅ |
+| Linked Lists | ✅ |
+| Stack | ✅ |
+| Heap / Priority Queue | ✅ |
+| Trees | 🟡 |
+| Graphs | 🔜 |
+| Dynamic Programming | 🔜 |
 
 ---
 
-### ⚙️ Backend Engineering Sprint (In Progress)
+### ⚙️ Backend Engineering Sprint *(In Progress)*
 
-Building production-inspired backend services to learn system design, APIs, authentication, caching, queues, WebSockets, databases, and deployment.
+Currently building a collection of backend projects to gain hands-on experience with:
+
+- REST APIs
+- Authentication & Authorization
+- Databases
+- WebSockets
+- Background Jobs
+- Caching
+- Cloud Deployment
+
+The goal is to understand how production backend systems are designed—not just how they're coded.
 
 ---
 
 ## 🛠 Tech Stack
 
-Languages
-
-C++ • Python • JavaScript • SQL
-
-Backend
-
-Node.js • Express • MongoDB *(Learning)*
-
-AI / ML
-
-Transformers • Hugging Face
-
-Frontend
-
-HTML • CSS • JavaScript
-
-Tools
-
-Git • GitHub • Figma • Vercel
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | C++, Python, JavaScript, SQL |
+| **Backend** | Node.js, Express.js, MongoDB *(currently learning)* |
+| **Frontend** | HTML, CSS, JavaScript |
+| **AI / ML** | Transformers, Hugging Face |
+| **Tools** | Git, GitHub, Figma, Vercel |
 
 ---
 
 ## 🌱 Currently Learning
 
-- Backend Development
-- System Design
-- Scalable APIs
+- Backend Engineering
+- System Design Fundamentals
+- Scalable REST APIs
 - Database Design
-- Cloud Deployment
+- Graph Algorithms
+- Dynamic Programming
+
+---
+
+## 💡 Beyond Code
+
+Outside of programming, I enjoy UI/UX design and visual storytelling. I like creating projects that are not only functional but also thoughtful in how people interact with them.
 
 ---
 
 ## 📫 Connect
 
-LinkedIn
+**LinkedIn**  
+🔗 https://www.linkedin.com/in/chahat-saini-182716287/
 
-LeetCode
+**LeetCode**  
+🔗 https://leetcode.com/u/Chahat_Saini13/
