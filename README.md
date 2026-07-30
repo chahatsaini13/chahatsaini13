@@ -19,7 +19,7 @@ AI-powered moodboard generator that transforms text prompts into personalized vi
 100+ LeetCode solutions in C++, organized by interview patterns.
 `Two Pointers` • `Sliding Window` • `Binary Search` • `Linked Lists` • `Trees` • `Heaps` • `Backtracking`
 
-### Backend Engineering Sprint *(In Progress)*
+### Backend Sprint *(In Progress)*
 Building production-inspired backend applications to learn REST APIs, authentication, databases, caching, WebSockets, and deployment.
 
 ## Connect
