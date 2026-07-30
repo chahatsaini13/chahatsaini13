@@ -5,6 +5,10 @@
 I'm interested in building intelligent software, scalable backend systems, and solving algorithmic problems.
 
 ## Featured Projects
+### Agentic AI Portfolio Guardian 
+An agent-based investment monitoring system that tracks whether an investor's original investment thesis still holds using live market data, financial news, and multiple AI agents.
+
+**Tech:** Python • LangGraph • Ollama • yfinance • NewsAPI
 
 ### MoodMatch
 AI-powered moodboard generator that transforms text prompts into personalized visual moodboards using emotion classification.
