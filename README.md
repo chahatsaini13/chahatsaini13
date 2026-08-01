@@ -15,11 +15,11 @@ An AI-powered moodboard generator that transforms text prompts into personalized
 **Tech:** `Python` · `Transformers` · `Hugging Face` · `Groq API` · `JavaScript` · `HTML` · `CSS` · `Vercel`
 
 
-### 💻 DSA Solutions
-A collection of **100+ LeetCode solutions** in C++, organized by interview patterns and optimized approaches.
-**Topics:** `Two Pointers` · `Sliding Window` · `Binary Search` · `Linked Lists` · `Trees` · `Graphs` · `Heaps` · `Dynamic Programming`
-
-
 ### ⚙️ Backend Sprint *(In Progress)*
 Building production-inspired backend applications through a series of mini-projects, including URL shorteners, authentication services, chat systems, job queues, file storage, inventory management, and task management APIs.
 **Tech:** `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Socket.IO` · `Redis` · `BullMQ` · `Cloudinary` · `Docker`
+
+
+### 💻 DSA Solutions
+A collection of **100+ LeetCode solutions** in C++, organized by interview patterns and optimized approaches.
+**Topics:** `Two Pointers` · `Sliding Window` · `Binary Search` · `Linked Lists` · `Trees` · `Graphs` · `Heaps` · `Dynamic Programming`
