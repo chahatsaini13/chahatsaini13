@@ -17,6 +17,12 @@ An AI-powered moodboard generator that transforms text prompts into personalized
 **Tech:** `Python` · `Transformers` · `Hugging Face` · `Groq API` · `JavaScript` · `HTML` · `CSS` · `Vercel`
 
 
+### 👔 Chief Bestu
+A CEO who gets things done *and* your bestfriend who talks in Hinglish. A full-stack AI chatbot built for reliability: automatic API-key failover, response caching, per-reply latency and token metadata, and a failure-simulation hook to demo it all on demand.
+
+**Tech:** `Python` · `FastAPI` · `LiteLLM` · `SQLite` · `React` · `Vite` · `Docker` · `Gemini` · `Render` · `Vercel`
+
+
 ### 💻 DSA Solutions
 A collection of **100+ LeetCode solutions** in C++, organized by interview patterns and optimized approaches.
 
